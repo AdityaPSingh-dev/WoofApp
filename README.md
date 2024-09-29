@@ -78,4 +78,7 @@ These skills helped me better understand **Material Theming**, which enables you
 ### How to Use
 - Launch the app to see a list of different dog breeds.
 - Scroll through the list to view the breeds, their names, and corresponding image
+### License and Copyright
+This project is licensed under the Apache 2.0 License. See the LICENSE file for more details.
+The original project is forked from [Google's Android Developer Training Repo](https://github.com/google-developer-training/basic-android-kotlin-compose-training-woof/tree/starter?tab=License-1-ov-file). Copyright for the original content belongs to Google and other contributors as noted in their repository.
 
